@@ -42,7 +42,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 ### Quy tắc chung:
 - **Xưng hô phải phù hợp với quan hệ giữa các nhân vật đang nói chuyện**: Trước khi dịch hội thoại, xác định rõ nhân vật nào đang nói với nhân vật nào. Xưng hô giữa các nhân vật phải **nhất quán** và **phù hợp mối quan hệ**(bạn bè ngang hàng, cấp trên/dưới, quen biết/xa lạ). Ví dụ: Tatsumi nói chuyện với Calsey (Biệt danh Chiiko ) (anh - em) → dùng "anh, không dùng "tôi";
 - **Bắt buộc phải giữ nguyên các hậu tố danh xưng/kính ngữ và cách gọi họ hàng** trong tiếng Nhật (như `-sama`, `-san`, `-kun`, `-chan`, `-jouchan`, `-dono`, `-bouzu`, `Nii-san`, `Onee-chan`, `Jii-chan`) thay vì dịch sang tiếng Việt (ví dụ:  `onii-chan` thay vì `anh`, `Onee-chan` thay vì `chị hai`). 
-- **Đối với các đoạn hội thoại, loại bỏ ký tự ngoặc `《》` trong biệt danh khi đi cùng với hậu tố danh xưng/kính ngữ** (ví dụ: `Thánh Nữ-sama`, `Thiên Tường-dono`, `Kị Sĩ Tự Do-dono` thay vì `《Thánh Nữ》-sama`, `《Thiên Tường》-dono`).
+- **Trong các đoạn hội thoại, không sử dụng dấu ngoặc `《》` cho biệt danh / danh hiệu** (ví dụ: `Thánh Nữ-sama`, `Thiên Tường-dono`, `Kị Sĩ Tự Do`, `ngài Kị Sĩ Tự Do`, `danh xưng Thiên Tường` thay vì để trong ngoặc `《》`). Dấu ngoặc `《》` cho biệt danh/danh hiệu chỉ dùng trong phần văn phong miêu tả/lời dẫn của người kể chuyện.
 - Khi nhắc đến nhân vật thuộc phe kẻ thù. **Hạn chế hoặc Không** dùng từ "gã" trừ khi cần thiết, hãy thay bằng "hắn" nếu có thể.
 
 ### Bảng xưng hô giữa các nhân vật:
@@ -100,6 +100,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | サーゴ | Sargo | Linh mục đền Savaiv, em trai của Neez và Lik |
 | シーロ | Schero | Linh mục đền Savaiv, em trai của Neez và Lik |
 | イエリマオ・トゥーラル | Ierimao Toural | Quan thanh tra của triều đình, người thừa kế gia tộc Hầu tước Toural, bạn thời thơ ấu của Vương thái tử Argento |
+| タランド | Tarand | Người hát rong, từng tán tỉnh Calcedonia và Eru rồi bị Tatsumi lột sạch quần áo ném ra ngoài quán |
 
 
 ---
@@ -151,6 +152,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 代官 | Quan cai quản | Chức vị | Quan lại triều đình phái đi thay mặt cai quản vùng đất trực thuộc |
 | 代官府 | Phủ quan cai quản | Cơ quan / Địa danh | Trụ sở làm việc của quan cai quản tại vùng đất trực thuộc |
 | 査察官 | Quan thanh tra | Chức vụ | Quan chức triều đình được cử đi thanh tra, điều tra đột xuất |
+| 宵月神グラヴァビ | Thần Trăng Khuya Gravabi | Tôn giáo / Thần linh | Vị thần bóng đêm/trăng muộn được người hát rong tôn kính |
 
 ### Hệ thống cấp bậc trong Đền thờ (Giáo hội):
 Thứ tự từ cao xuống thấp:
