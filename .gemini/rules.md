@@ -55,7 +55,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Baride (Quốc vương) | Giuseppe | ta | ông | bạn hữu lâu năm / vua và đại tư tế |
 | Giuseppe | Baride (Quốc vương) | tôi | ngài | đại tư tế và quốc vương |
 | Miloulle | Jadokh | tôi | anh | quan hệ đồng đội |
-| Jadokh | Miloulle | tôi | cô (Cưng cho cách gọi thân mật hoặc trêu chọc) | quan hệ đồng đội |
+| Jadokh | Miloulle / Tatsumi | tôi / mị (khi nói chuyện thân mật, trêu đùa theo phong cách Okama) | cô / cậu / cưng / [Tên]-chan | Đồng đội. Jadokh là nam cơ bắp nhưng tính cách Okama tự luyến, xưng "mị", dùng thán từ điệu đà "Ara" cho 「あらン」, ngữ điệu kết câu luyến láy điệu đà nếu có trong văn bản gốc (nha, nè, đó nha) |
 | Jolt | Tatsumi | tôi | anh | bạn bè |
 | Tatsumi | Jolt | tôi | cậu | bạn bè |
 | Baride (Quốc vương), Argento, Freenea | Tatsumi | ta | cậu | hoàng tộc đối với Tatsumi |
@@ -92,6 +92,10 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | リーヴェルナ | Lievelna | Vương tôn nữ, em gái của Jolt (tên đầy đủ: Lievelna Rezo Largofiely, gọi tắt: Lieve) |
 | ニーズ | Neez | Linh mục cấp cao đền Savaiv, bạn của Tatsumi, con thứ nhà Doyez, anh trai của Sargo và Schero |
 | イーク | Lik | Thợ rèn vũ khí, anh trai của Neez, người thừa kế 〈Tiệm Vũ Khí Doyez〉 |
+| バース | Verse | Linh mục cấp cao đền Savaiv, bạn của Tatsumi, chồng của Nanau |
+| ナナゥ | Nanau | Cô gái goblin làm việc tại Lữ quán Tinh linh, vợ của Verse |
+| サーゴ | Sargo | Linh mục đền Savaiv, em trai của Neez và Lik |
+| シーロ | Schero | Linh mục đền Savaiv, em trai của Neez và Lik |
 
 
 ---
@@ -136,6 +140,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 《大魔道師》 | 《Đại Ma Thuật Sư》 | Danh xưng | Danh xưng của Teiyeto Zamui |
 | 神官戦士 | Hiệp sĩ Dòng tu | Nghề nghiệp / Chức vị | Chiến sĩ phục vụ trong đền thờ |
 | 〈ドワイエズ武具店〉 | 〈Tiệm Vũ Khí Doyez〉 | Cửa hàng | Cửa hàng rèn đúc vũ khí lâu đời tại Levantes của gia đình Neez |
+| 〔エルフの憩い亭〕 | Lữ quán Tinh linh | Quán trọ / Quán rượu | Lữ quán kiêm quán rượu do Eru làm chủ quán |
 
 ### Hệ thống cấp bậc trong Đền thờ (Giáo hội):
 Thứ tự từ cao xuống thấp:
