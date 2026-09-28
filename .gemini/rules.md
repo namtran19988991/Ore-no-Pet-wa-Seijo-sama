@@ -77,9 +77,9 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 辰巳 (山形辰巳) | Tatsumi (Yamagata Tatsumi) | Nhân vật chính |
 | カルセドニア | Calcedonia | Nữ chính, vợ của Tatsumi (tên đầy đủ: Calcedonia; tên viết tắt: Calsey; biệt danh: Chiiko) |
 | ジャドック | Jadokh | Đồng đội |
-| ブガランク | Bugarank | Đại tư tế tối cao đền Golaiva |
-| ティエート・ザムイ | Teiyeto Zamui | Tiền nhiệm ma pháp sư hệ 〈Thiên〉 |
-| ジュゼッペ | Giuseppe | Đại tư tế tối cao đền Savaiv, sư phụ của Tatsumi (tên đầy đủ: Giuseppe Chrysophrase) |
+| ブガランク | Bugarank | Giám mục tối cao đền Golaiva |
+| ティエート・ザムイ | Teiyeto Zamui | Tiền nhiệm ma pháp sư hệ 〈Thiên〉, chủ nhân trước của Amaryllis, danh xưng 《Đại Ma Thuật Sư》 |
+| ジュゼッペ | Giuseppe | Giám mục tối cao đền Savaiv, sư phụ của Tatsumi (tên đầy đủ: Giuseppe Chrysophrase) |
 | バーライド | Baride | Quốc vương Vương quốc Largofiely (tên đầy đủ: Baride Rezo Largofiely) |
 | ジョルト | Jolt | Cháu nội Quốc vương Baride, học trò cũ của Giuseppe |
 | タウロード | Taülorde | Chỉ huy quân sự, anh kết nghĩa của Calcedonia (tên đầy đủ: Taülorde Chrysophrase) |
@@ -90,6 +90,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | アルジェント | Argento | Vương thái tử, cha của Jolt (tên đầy đủ: Argento Rezo Largofiely) |
 | フリーネア | Freenea | Vương thái tử phi, mẹ của Jolt (tên đầy đủ: Freenea Rezo Largofiely) |
 | リーヴェルナ | Lievelna | Vương tôn nữ, em gái của Jolt (tên đầy đủ: Lievelna Rezo Largofiely, gọi tắt: Lieve) |
+| ニーズ | Neez | Linh mục cấp cao đền Savaiv, bạn của Tatsumi, con thứ nhà Doyez, anh trai của Sargo và Schero |
+| イーク | Lik | Thợ rèn vũ khí, anh trai của Neez, người thừa kế 〈Tiệm Vũ Khí Doyez〉 |
 
 
 ---
@@ -130,6 +132,16 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 司祭 | Tư Tế | Chức vị | Phẩm hàm trong đền thờ |
 | 侍祭 | Tư Tế cấp thấp | Chức vị | Phẩm hàm trong đền thờ |
 | 上級神官 | Linh mục cấp cao | Chức vị | Phẩm hàm trong đền thờ |
+| 最高司祭 | Giám mục tối cao | Chức vị | Người đứng đầu đền thờ (như Giuseppe, Bugarank) |
+| 《大魔道師》 | 《Đại Ma Thuật Sư》 | Danh xưng | Danh xưng của Teiyeto Zamui |
+| 神官戦士 | Hiệp sĩ Dòng tu | Nghề nghiệp / Chức vị | Chiến sĩ phục vụ trong đền thờ |
+| 〈ドワイエズ武具店〉 | 〈Tiệm Vũ Khí Doyez〉 | Cửa hàng | Cửa hàng rèn đúc vũ khí lâu đời tại Levantes của gia đình Neez |
+
+### Hệ thống cấp bậc trong Đền thờ (Giáo hội):
+Thứ tự từ cao xuống thấp:
+**Giám mục tối cao** → **Đại tư tế** → **Tư tế cấp cao** → **Tư Tế** → **Tư Tế cấp thấp** → **Linh mục cấp cao** → **Linh mục tập sự**
+*(最高司祭 → 大司祭 → 上級司祭 → 司祭 → 侍祭 → 上級神官 → 見習い神官)*
+
 
 
 
