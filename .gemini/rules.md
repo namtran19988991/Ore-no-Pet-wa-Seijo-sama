@@ -60,6 +60,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Tatsumi | Jolt | tôi | cậu | bạn bè |
 | Baride (Quốc vương), Argento, Freenea | Tatsumi | ta | cậu | hoàng tộc đối với Tatsumi |
 | Tatsumi | Baride (Quốc vương), Argento, Freenea | tôi | ngài | Tatsumi đối với hoàng tộc |
+| Jolt | Giuseppe | tôi | ông (ông Giuseppe / Giuseppe-jiichan) | thầy trò cũ, Jolt là học trò cũ của Giuseppe |
+| Giuseppe | Jolt | ta / ông | cậu / nhóc Jolt (Jolt-bouzu) | thầy trò cũ, Giuseppe là đại tư tế và bạn thân của quốc vương Baride |
 
 
 ## 4. Quy Tắc Tên Nhân Vật
@@ -141,6 +143,12 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 神官戦士 | Hiệp sĩ Dòng tu | Nghề nghiệp / Chức vị | Chiến sĩ phục vụ trong đền thờ |
 | 〈ドワイエズ武具店〉 | 〈Tiệm Vũ Khí Doyez〉 | Cửa hàng | Cửa hàng rèn đúc vũ khí lâu đời tại Levantes của gia đình Neez |
 | 〔エルフの憩い亭〕 | Lữ quán Tinh linh | Quán trọ / Quán rượu | Lữ quán kiêm quán rượu do Eru làm chủ quán |
+| トガの街 | Thị trấn Toga | Địa danh | Thị trấn thuộc vùng đất trực thuộc ở phía bắc vương đô |
+| ラギネ村 | Làng Ragine | Địa danh | Ngôi làng gần thị trấn Toga, quê hương nơi Calcedonia sinh ra |
+| 直轄地 / 王領 | Vùng đất trực thuộc / Vương lãnh | Thuật ngữ / Địa chính | Vùng đất chịu sự cai quản trực tiếp của quốc vương |
+| 代官 | Quan cai quản | Chức vị | Quan lại triều đình phái đi thay mặt cai quản vùng đất trực thuộc |
+| 代官府 | Phủ quan cai quản | Cơ quan / Địa danh | Trụ sở làm việc của quan cai quản tại vùng đất trực thuộc |
+| 査察官 | Quan thanh tra | Chức vụ | Quan chức triều đình được cử đi thanh tra, điều tra đột xuất |
 
 ### Hệ thống cấp bậc trong Đền thờ (Giáo hội):
 Thứ tự từ cao xuống thấp:
