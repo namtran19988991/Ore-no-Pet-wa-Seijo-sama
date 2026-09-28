@@ -41,7 +41,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 
 ### Quy tắc chung:
 - **Xưng hô phải phù hợp với quan hệ giữa các nhân vật đang nói chuyện**: Trước khi dịch hội thoại, xác định rõ nhân vật nào đang nói với nhân vật nào. Xưng hô giữa các nhân vật phải **nhất quán** và **phù hợp mối quan hệ**(bạn bè ngang hàng, cấp trên/dưới, quen biết/xa lạ). Ví dụ: Tatsumi nói chuyện với Calsey (Biệt danh Chiiko ) (anh - em) → dùng "anh, không dùng "tôi";
-- **Bắt buộc phải giữ nguyên các hậu tố danh xưng/kính ngữ và cách gọi họ hàng** trong tiếng Nhật (như `-sama`, `-san`, `-kun`, `-chan`, `-jouchan`, `-dono`, `Nii-san`, `Onee-chan`) thay vì dịch sang tiếng Việt (ví dụ:  `onii-chan` thay vì `anh`, `Onee-chan` thay vì `chị hai`). 
+- **Bắt buộc phải giữ nguyên các hậu tố danh xưng/kính ngữ và cách gọi họ hàng** trong tiếng Nhật (như `-sama`, `-san`, `-kun`, `-chan`, `-jouchan`, `-dono`, `-bouzu`, `Nii-san`, `Onee-chan`, `Jii-chan`) thay vì dịch sang tiếng Việt (ví dụ:  `onii-chan` thay vì `anh`, `Onee-chan` thay vì `chị hai`). 
 - Khi nhắc đến nhân vật thuộc phe kẻ thù. **Hạn chế hoặc Không** dùng từ "gã" trừ khi cần thiết, hãy thay bằng "hắn" nếu có thể.
 
 ### Bảng xưng hô giữa các nhân vật:
@@ -51,6 +51,11 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Người nói (A) | Người nghe (B) | Tự xưng (A) | Gọi đối phương (B) | Ghi chú |
 |---|---|---|---|---|
 | Tatsumi | Calsey (Biệt danh Chiiko ) | anh | em | quan hệ vợ chồng |
+| Calsey / Calcedonia | Tatsumi | em | anh / ông xã (khi gọi 旦那様) | quan hệ vợ chồng |
+| Baride (Quốc vương) | Giuseppe | ta | ông | bạn hữu lâu năm / vua và đại tư tế |
+| Giuseppe | Baride (Quốc vương) | tôi | ngài | đại tư tế và quốc vương |
+| Miloulle | Jadokh | tôi | anh | quan hệ đồng đội |
+| Jadokh | Miloulle | tôi | cô (Cưng cho cách gọi thân mật hoặc trêu chọc) | quan hệ đồng đội |
 
 
 ## 4. Quy Tắc Tên Nhân Vật
