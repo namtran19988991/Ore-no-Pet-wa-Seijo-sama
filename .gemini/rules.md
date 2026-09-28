@@ -69,6 +69,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Tatsumi | Tarand | tôi | anh | Trước khi bái sư |
 | Tarand | Tatsumi | tôi | sư phụ / ngài | Sau khi bái sư |
 | Tatsumi | Tarand | tôi | anh | Sau khi bái sư (Tatsumi không nhận làm đồ đệ) |
+| Tarand | Tatsumil | tôi | bằng hữu Tatsumil | Nguyên tác dùng 同志 (doushi), dịch là bằng hữu |
+| Tatsumil | Tarand | tại hạ | bằng hữu Tarand | Nguyên tác dùng 同志 (doushi), dịch là bằng hữu |
 
 
 ## 4. Quy Tắc Tên Nhân Vật
@@ -107,6 +109,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | シーロ | Schero | Linh mục đền Savaiv, em trai của Neez và Lik |
 | イエリマオ・トゥーラル | Ierimao Toural | Quan thanh tra của triều đình, người thừa kế gia tộc Hầu tước Toural, bạn thời thơ ấu của Vương thái tử Argento |
 | タランド | Tarand | Người hát rong, từng tán tỉnh Calcedonia và Eru rồi bị Tatsumi lột sạch quần áo ném ra ngoài quán |
+| ターツミル | Tatsumil | Thợ săn ma thú cơ bắp, người sử dụng Hào Lạc Thiết Liên Tiên, biệt danh 《Thiên Băng》 (viết tắt của 《Kẻ Làm Sập Trần Nhà》) |
 
 
 ---
@@ -120,7 +123,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Tên gốc (JP) | Tên dịch (VI) | Loại | Ghi chú |
 |---------------|---------------|------|--------|
 | 『アマリリス』 | 『Amaryllis』 | Trang bị / Bảo khí | Bao tay giáp và xích của Tatsumi |
-| 飛竜 | Rồng / phi long | Quái vật | Linh hoạt dùng "rồng" hoặc "phi long" tùy ngữ cảnh |
+| 飛竜 | phi long | Quái vật | Linh hoạt dùng "rồng" hoặc "phi long" tùy ngữ cảnh |
 | 《魔力撃》 | 《Công Kích Ma Lực》 | Ma pháp | Ma pháp công kích truyền ma lực |
 | 《飛翔》 | 《Phi Hành》 | Ma pháp | Ma pháp bay lượn |
 | 《加速》 | 《Gia Tốc》 | Ma pháp | Ma pháp tăng tốc |
@@ -159,6 +162,10 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 代官府 | Phủ quan cai quản | Cơ quan / Địa danh | Trụ sở làm việc của quan cai quản tại vùng đất trực thuộc |
 | 査察官 | Quan thanh tra | Chức vụ | Quan chức triều đình được cử đi thanh tra, điều tra đột xuất |
 | 宵月神グラヴァビ | Thần Trăng Khuya Gravabi | Tôn giáo / Thần linh | Vị thần bóng đêm/trăng muộn được người hát rong tôn kính |
+| 刀竜 | Đao long | Quái vật | Loài rồng có hình dáng như bọ kẹp kìm, yếu hơn phi long |
+| 《天崩》 | 《Thiên Băng》 | Danh xưng | Biệt danh của Tatsumil (viết tắt của Kẻ Làm Sập Trần Nhà) |
+| 豪落鉄鎖鞭 | Hào Lạc Thiết Liên Tiên | Võ thuật / Chiêu thức | Môn võ dùng xích sắt do Tatsumil sáng lập |
+| ラライナ | Lalaina / đàn Lalaina | Nhạc cụ | Nhạc cụ dạng đàn dây của người hát rong |
 
 ### Hệ thống cấp bậc trong Đền thờ (Giáo hội):
 Thứ tự từ cao xuống thấp:
