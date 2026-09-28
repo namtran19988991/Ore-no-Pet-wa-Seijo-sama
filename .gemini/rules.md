@@ -65,6 +65,10 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Giuseppe | Jolt | ta / ông | cậu / nhóc Jolt (Jolt-bouzu) | thầy trò cũ, Giuseppe là đại tư tế và bạn thân của quốc vương Baride |
 | Ierimao | Jolt | ta | cậu (Jolt-kun) | Khi đóng giả làm thầy trò (trong chuyến đi thanh tra) |
 | Jolt | Ierimao | em | thầy (thầy Ierimao / Ierimao-sensei) | Khi đóng giả làm thầy trò (trong chuyến đi thanh tra) |
+| Tarand | Tatsumi | ta | cậu | Trước khi bái sư |
+| Tatsumi | Tarand | tôi | anh | Trước khi bái sư |
+| Tarand | Tatsumi | tôi | sư phụ / ngài | Sau khi bái sư |
+| Tatsumi | Tarand | tôi | anh | Sau khi bái sư (Tatsumi không nhận làm đồ đệ) |
 
 
 ## 4. Quy Tắc Tên Nhân Vật
@@ -116,7 +120,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Tên gốc (JP) | Tên dịch (VI) | Loại | Ghi chú |
 |---------------|---------------|------|--------|
 | 『アマリリス』 | 『Amaryllis』 | Trang bị / Bảo khí | Bao tay giáp và xích của Tatsumi |
-| 飛竜 | Rồng / Rồng bay | Quái vật | Linh hoạt dùng "rồng" hoặc "rồng bay" tùy ngữ cảnh |
+| 飛竜 | Rồng / phi long | Quái vật | Linh hoạt dùng "rồng" hoặc "phi long" tùy ngữ cảnh |
 | 《魔力撃》 | 《Công Kích Ma Lực》 | Ma pháp | Ma pháp công kích truyền ma lực |
 | 《飛翔》 | 《Phi Hành》 | Ma pháp | Ma pháp bay lượn |
 | 《加速》 | 《Gia Tốc》 | Ma pháp | Ma pháp tăng tốc |
@@ -139,7 +143,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | ブラウニー | Brownie | Sinh vật | Tinh linh gia đình cư ngụ bảo vệ ngôi nhà |
 | 《天翔》 | 《Thiên Tường》 | Danh hiệu | Danh hiệu Quốc vương ban tặng cho Tatsumi (người thấu hiểu bầu trời) |
 | 《竜殺し》 | 《Sát Long Nhân》 | Danh hiệu | Danh hiệu dành cho người hạ gục rồng |
-| 《飛竜殺し》 | 《Sát Phi Long Nhân》 | Danh hiệu | Danh hiệu dành cho người hạ gục rồng bay |
+| 《飛竜殺し》 | 《Sát Phi Long Nhân》 | Danh hiệu | Danh hiệu dành cho người hạ gục phi long |
 | 司祭 | Tư Tế | Chức vị | Phẩm hàm trong đền thờ |
 | 侍祭 | Tư Tế cấp thấp | Chức vị | Phẩm hàm trong đền thờ |
 | 上級神官 | Linh mục cấp cao | Chức vị | Phẩm hàm trong đền thờ |
