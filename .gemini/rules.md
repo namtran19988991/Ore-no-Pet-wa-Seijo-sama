@@ -56,6 +56,10 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Giuseppe | Baride (Quốc vương) | tôi | ngài | đại tư tế và quốc vương |
 | Miloulle | Jadokh | tôi | anh | quan hệ đồng đội |
 | Jadokh | Miloulle | tôi | cô (Cưng cho cách gọi thân mật hoặc trêu chọc) | quan hệ đồng đội |
+| Jolt | Tatsumi | tôi | anh | bạn bè |
+| Tatsumi | Jolt | tôi | cậu | bạn bè |
+| Baride (Quốc vương), Argento, Freenea | Tatsumi | ta | cậu | hoàng tộc đối với Tatsumi |
+| Tatsumi | Baride (Quốc vương), Argento, Freenea | tôi | ngài | Tatsumi đối với hoàng tộc |
 
 
 ## 4. Quy Tắc Tên Nhân Vật
@@ -83,6 +87,9 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | エル | Eru | Chủ tiệm buôn, người quen của nhóm |
 | モルガーナイク | Morganeich | Thợ săn ma thú, biệt danh 《Kị Sĩ Tự Do》 (gọi tắt: Morgan) |
 | クレソプレーズ | Chrysophrase | Đức ngài / Giám mục Chrysophrase |
+| アルジェント | Argento | Vương thái tử, cha của Jolt (tên đầy đủ: Argento Rezo Largofiely) |
+| フリーネア | Freenea | Vương thái tử phi, mẹ của Jolt (tên đầy đủ: Freenea Rezo Largofiely) |
+| リーヴェルナ | Lievelna | Vương tôn nữ, em gái của Jolt (tên đầy đủ: Lievelna Rezo Largofiely, gọi tắt: Lieve) |
 
 
 ---
@@ -113,10 +120,16 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | パーロゥ | Paro | Sinh vật | Loài chim cưỡi cỡ lớn |
 | オーク | Orc | Sinh vật | Quái lợn rừng dùng kéo xe |
 | 魔獣狩り | Thợ săn ma thú | Nghề nghiệp | Người săn bắt ma thú |
-| 魔祓い師 | Thầy trừ tà | Nghề nghiệp | Người thanh tẩy ma quỷ |
+| 魔祓い師 | Pháp sư trừ tà | Nghề nghiệp | Người thanh tẩy ma quỷ |
 | 《自由騎士》 | 《Kị Sĩ Tự Do》 | Danh xưng | Biệt danh của Morganeich |
 | レバンティスの街 | Thành phố Levantes | Địa danh | Thành phố nơi nhóm Tatsumi sinh sống và đặt đền thờ Savaiv |
 | ブラウニー | Brownie | Sinh vật | Tinh linh gia đình cư ngụ bảo vệ ngôi nhà |
+| 《天翔》 | 《Thiên Tường》 | Danh hiệu | Danh hiệu Quốc vương ban tặng cho Tatsumi (người thấu hiểu bầu trời) |
+| 《竜殺し》 | 《Sát Long Nhân》 | Danh hiệu | Danh hiệu dành cho người hạ gục rồng |
+| 《飛竜殺し》 | 《Sát Phi Long Nhân》 | Danh hiệu | Danh hiệu dành cho người hạ gục rồng bay |
+| 司祭 | Tư Tế | Chức vị | Phẩm hàm trong đền thờ |
+| 侍祭 | Tư Tế cấp thấp | Chức vị | Phẩm hàm trong đền thờ |
+| 上級神官 | Linh mục cấp cao | Chức vị | Phẩm hàm trong đền thờ |
 
 
 
