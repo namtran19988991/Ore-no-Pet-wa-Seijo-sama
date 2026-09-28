@@ -115,6 +115,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 魔獣狩り | Thợ săn ma thú | Nghề nghiệp | Người săn bắt ma thú |
 | 魔祓い師 | Thầy trừ tà | Nghề nghiệp | Người thanh tẩy ma quỷ |
 | 《自由騎士》 | 《Kị Sĩ Tự Do》 | Danh xưng | Biệt danh của Morganeich |
+| レバンティスの街 | Thành phố Levantes | Địa danh | Thành phố nơi nhóm Tatsumi sinh sống và đặt đền thờ Savaiv |
+| ブラウニー | Brownie | Sinh vật | Tinh linh gia đình cư ngụ bảo vệ ngôi nhà |
 
 
 
