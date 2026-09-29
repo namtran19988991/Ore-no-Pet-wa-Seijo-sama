@@ -71,6 +71,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Tatsumi | Tarand | tôi | anh | Sau khi bái sư (Tatsumi không nhận làm đồ đệ) |
 | Tarand | Tatsumil | tôi | bằng hữu Tatsumil | Nguyên tác dùng 同志 (doushi), dịch là bằng hữu |
 | Tatsumil | Tarand | tại hạ | bằng hữu Tarand | Nguyên tác dùng 同志 (doushi), dịch là bằng hữu |
+| Begil | Tatsumi | tôi | cậu (Thiên Tường-dono / Tatsumi-dono) | Tư tế già ở làng Ragine đối với Tatsumi |
+| Begil | Calcedonia | tôi | cô (Thánh Nữ-dono / Calcedonia-dono) | Tư tế già ở làng Ragine đối với Calcedonia |
 
 
 ## 4. Quy Tắc Tên Nhân Vật
