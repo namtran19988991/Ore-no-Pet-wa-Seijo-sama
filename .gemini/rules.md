@@ -73,6 +73,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Tatsumil | Tarand | tại hạ | bằng hữu Tarand | Nguyên tác dùng 同志 (doushi), dịch là bằng hữu |
 | Begil | Tatsumi | tôi | cậu (Thiên Tường-dono / Tatsumi-dono) | Tư tế già ở làng Ragine đối với Tatsumi |
 | Begil | Calcedonia | tôi | cô (Thánh Nữ-dono / Calcedonia-dono) | Tư tế già ở làng Ragine đối với Calcedonia |
+| Eru | Tatsumi | tôi | cậu (Tatsumi-san) | Quan hệ bạn bè, làm ăn ngang hàng |
+| Tatsumi | Eru | tôi | cô (Eru-san) | Quan hệ bạn bè, làm ăn ngang hàng |
 
 
 ## 4. Quy Tắc Tên Nhân Vật
@@ -168,6 +170,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 《天崩》 | 《Thiên Băng》 | Danh xưng | Biệt danh của Tatsumil (viết tắt của Kẻ Làm Sập Trần Nhà) |
 | 豪落鉄鎖鞭 | Hào Lạc Thiết Liên Tiên | Võ thuật / Chiêu thức | Môn võ dùng xích sắt do Tatsumil sáng lập |
 | ラライナ | Lalaina / đàn Lalaina | Nhạc cụ | Nhạc cụ dạng đàn dây của người hát rong |
+| シェイド | Vong linh tộc | Chủng tộc | Chủng tộc có 4 mắt, là chủng tộc của Jadokh |
 
 ### Hệ thống cấp bậc trong Đền thờ (Giáo hội):
 Thứ tự từ cao xuống thấp:
