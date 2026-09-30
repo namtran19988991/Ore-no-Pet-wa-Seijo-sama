@@ -123,6 +123,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | タドンくん | Tadon-kun | Thổ tinh linh ký khế ước với Eru |
 | ピーチョくん | Piicho-kun | Tinh linh ký khế ước với Eru |
 | ツワールくん | Twirl-kun | Tinh linh ký khế ước với Eru |
+| るーらん / るーらんくん | Ruuran / Ruuran-kun | Quang tinh linh ký khế ước với Eru |
 
 
 ---
@@ -184,6 +185,11 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 大雪蜥蜴 | thằn lằn tuyết khổng lồ | Quái vật | Thằn lằn tuyết kích thước lớn bị ma khí kí sinh |
 | 雪蜥蜴 | thằn lằn tuyết | Quái vật | Thằn lằn tuyết thông thường |
 | 土精霊 | thổ tinh linh | Tinh linh | Tinh linh hệ Thổ |
+| 光精霊 | quang tinh linh | Tinh linh | Tinh linh hệ Quang |
+| 《雷雨》 | 《Lôi Vũ》 | Ma pháp | Ma pháp tạo mưa sấm sét của Calcedonia |
+| 魔封具 / 魔具 | ma cụ | Trang bị / Đạo cụ | Trang bị, vật phẩm chứa năng lực ma pháp (như áo choàng, pháp trượng của Calcedonia) |
+| 《体力賦活》 | 《Hồi Phục Thể Lực》 | Ma pháp | Ma pháp hồi phục thể lực tạm thời của Calcedonia |
+| 《魚人化》 | 《Nhân Ngư Hóa》 | Ma pháp | Ma pháp biến thân thành bán nhân ngư của Miloulle |
 
 ### Hệ thống cấp bậc trong Đền thờ (Giáo hội):
 Thứ tự từ cao xuống thấp:
