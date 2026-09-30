@@ -178,6 +178,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 代官府 | Phủ quan cai quản | Cơ quan / Địa danh | Trụ sở làm việc của quan cai quản tại vùng đất trực thuộc |
 | 査察官 | Quan thanh tra | Chức vụ | Quan chức triều đình được cử đi thanh tra, điều tra đột xuất |
 | 宵月神グラヴァビ | Thần Trăng Khuya Gravabi | Tôn giáo / Thần linh | Vị thần bóng đêm/trăng muộn được người hát rong tôn kính |
+| 海洋神ダラガーベ / ダラガーベ | Thần Biển Cả Dragabe / Dragabe | Tôn giáo / Thần linh | Vị thần giám sát đại dương, bảo hộ thương nghiệp buôn bán |
+| 太陽神ゴライバ | Thần Mặt Trời Golaiva | Tôn giáo / Thần linh | Vị thần bảo hộ luật pháp, chiến thần |
 | 刀竜 | Đao long | Quái vật | Loài rồng có hình dáng như bọ kẹp kìm, yếu hơn phi long |
 | 《天崩》 | 《Thiên Băng》 | Danh xưng | Biệt danh của Tatsumil (viết tắt của Kẻ Làm Sập Trần Nhà) |
 | 豪落鉄鎖鞭 | Hào Lạc Thiết Liên Tiên | Võ thuật / Chiêu thức | Môn võ dùng xích sắt do Tatsumil sáng lập |
