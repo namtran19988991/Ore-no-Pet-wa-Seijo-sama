@@ -120,6 +120,9 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | タッド | Tadd | Bạn cùng làng, đồng đội thợ săn ma thú trong nhóm của Miloulle |
 | ガンス | Granz | Bạn cùng làng, đồng đội thợ săn ma thú trong nhóm của Miloulle |
 | クォーラン | Kuoran | Bạn cùng làng, đồng đội thợ săn ma thú trong nhóm của Miloulle |
+| タドンくん | Tadon-kun | Thổ tinh linh ký khế ước với Eru |
+| ピーチョくん | Piicho-kun | Tinh linh ký khế ước với Eru |
+| ツワールくん | Twirl-kun | Tinh linh ký khế ước với Eru |
 
 
 ---
@@ -178,6 +181,9 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 豪落鉄鎖鞭 | Hào Lạc Thiết Liên Tiên | Võ thuật / Chiêu thức | Môn võ dùng xích sắt do Tatsumil sáng lập |
 | ラライナ | Lalaina / đàn Lalaina | Nhạc cụ | Nhạc cụ dạng đàn dây của người hát rong |
 | シェイド | Vong linh tộc | Chủng tộc | Chủng tộc có 4 mắt, là chủng tộc của Jadokh |
+| 大雪蜥蜴 | thằn lằn tuyết khổng lồ | Quái vật | Thằn lằn tuyết kích thước lớn bị ma khí kí sinh |
+| 雪蜥蜴 | thằn lằn tuyết | Quái vật | Thằn lằn tuyết thông thường |
+| 土精霊 | thổ tinh linh | Tinh linh | Tinh linh hệ Thổ |
 
 ### Hệ thống cấp bậc trong Đền thờ (Giáo hội):
 Thứ tự từ cao xuống thấp:
