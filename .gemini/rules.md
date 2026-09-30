@@ -57,6 +57,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Baride (Quốc vương) | Giuseppe | ta | ông | bạn hữu lâu năm / vua và đại tư tế |
 | Giuseppe | Baride (Quốc vương) | tôi | ngài | đại tư tế và quốc vương |
 | Miloulle | Jadokh | tôi | anh | quan hệ đồng đội |
+| Miloulle | Tatsumi | tôi | cậu | quan hệ đồng đội |
 | Jadokh | Miloulle / Tatsumi | tôi / mị (khi nói chuyện thân mật, trêu đùa theo phong cách Okama) | cô / cậu / cưng / [Tên]-chan | Đồng đội. Jadokh là nam cơ bắp nhưng tính cách Okama tự luyến, xưng "mị", dùng thán từ điệu đà "Ara" cho 「あらン」, ngữ điệu kết câu luyến láy điệu đà nếu có trong văn bản gốc (nha, nè, đó nha) |
 | Jolt | Tatsumi | tôi | anh | bạn bè |
 | Tatsumi | Jolt | tôi | cậu | bạn bè |
@@ -190,6 +191,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 魔封具 / 魔具 | ma cụ | Trang bị / Đạo cụ | Trang bị, vật phẩm chứa năng lực ma pháp (như áo choàng, pháp trượng của Calcedonia) |
 | 《体力賦活》 | 《Hồi Phục Thể Lực》 | Ma pháp | Ma pháp hồi phục thể lực tạm thời của Calcedonia |
 | 《魚人化》 | 《Nhân Ngư Hóa》 | Ma pháp | Ma pháp biến thân thành bán nhân ngư của Miloulle |
+| 《獣化》 | 《Thú Hóa》 | Ma pháp | Ma pháp biến thân thành dã thú |
+| 〈魚〉 | 〈Ngư〉 | Thuộc tính | Hệ thuộc tính phân nhánh cấp thấp của hệ Thủy |
 
 ### Hệ thống cấp bậc trong Đền thờ (Giáo hội):
 Thứ tự từ cao xuống thấp:
