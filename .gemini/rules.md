@@ -25,6 +25,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 - **Văn phong đầy đủ, rõ ý và mềm mại**: Câu văn phải diễn đạt trọn vẹn ý nghĩa, không được quá tối giản hay cộc lốc. Ưu tiên sự mượt mà, tự nhiên trong diễn đạt, thể hiện được cảm xúc của nhân vật (cả nội tâm và lời thoại)  đồng thời phải đảm bảo phù hợp với nội dung nguyên tác để thể hiện đúng nội dung nguyên tác muốn truyền tải.
 - ** Bắt buộc không** sử dụng dấu gạch ngang (“—”) trong kết quả đầu ra mà sử dụng các từ ngữ, cách diễn đạt hoặc dấu câu tự nhiên trong tiếng Việt.
 - Sử dụng **dấu câu** đúng chuẩn tiếng Việt.
+- **Sử dụng ký tự dấu ngã (`~`)**: Ký tự `~` chỉ được sử dụng khi phù hợp nếu văn bản gốc có ý thể hiện sự bông đùa, vui vẻ, trêu chọc trong câu nói hoặc có thể nhận biết ngữ cảnh thích hợp để sử dụng ký tự này. Trong các đoạn hội thoại mang tính nghiêm túc, khẩn trương hoặc khi văn bản gốc không hề thể hiện điều đó thì tuyệt đối không sử dụng ký tự `~`.
 - **Dấu ngoặc hội thoại**: Các đoạn hội thoại trực tiếp của nhân vật bắt buộc phải để trong **dấu ngoặc kép `""`** (ví dụ: `"Xin chào!"`), tuyệt đối không sử dụng dấu ngoặc vuông/ngoặc kép kiểu Nhật (`「」`). Bắt buộc **giữ nguyên dấu ngoặc `『』`** trong văn bản gốc khi nhân vật sử dụng dấu ngoặc này để thể hiện việc nhân vật dùng phương thức khác để nói chuyện/truyền âm/giao tiếp đặc biệt thay vì trực tiếp phát âm.
 - Duy trì **nhất quán** về văn phong, cách xưng hô xuyên suốt bản dịch.
 - Các từ ngữ biểu cảm, thán từ nên được **Việt hóa tự nhiên** (ví dụ: "くそ" → "Chết tiệt", không phải "Kuso").
@@ -75,6 +76,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Begil | Calcedonia | tôi | cô (Thánh Nữ-dono / Calcedonia-dono) | Tư tế già ở làng Ragine đối với Calcedonia |
 | Eru | Tatsumi | tôi | cậu (Tatsumi-san) | Quan hệ bạn bè, làm ăn ngang hàng |
 | Tatsumi | Eru | tôi | cô (Eru-san) | Quan hệ bạn bè, làm ăn ngang hàng |
+| Calcedonia | Jadokh | tôi | anh (Jadokh-san) | Quan hệ ngang hàng |
+| Jadokh | Calcedonia | tôi / mị | cô / cưng / Calsey-chan | Quan hệ ngang hàng |
 
 
 ## 4. Quy Tắc Tên Nhân Vật
@@ -114,6 +117,9 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | イエリマオ・トゥーラル | Ierimao Toural | Quan thanh tra của triều đình, người thừa kế gia tộc Hầu tước Toural, bạn thời thơ ấu của Vương thái tử Argento |
 | タランド | Tarand | Người hát rong, từng tán tỉnh Calcedonia và Eru rồi bị Tatsumi lột sạch quần áo ném ra ngoài quán |
 | ターツミル | Tatsumil | Thợ săn ma thú cơ bắp, người sử dụng Hào Lạc Thiết Liên Tiên, biệt danh 《Thiên Băng》 (viết tắt của 《Kẻ Làm Sập Trần Nhà》) |
+| タッド | Tadd | Bạn cùng làng, đồng đội thợ săn ma thú trong nhóm của Miloulle |
+| ガンス | Granz | Bạn cùng làng, đồng đội thợ săn ma thú trong nhóm của Miloulle |
+| クォーラン | Kuoran | Bạn cùng làng, đồng đội thợ săn ma thú trong nhóm của Miloulle |
 
 
 ---
@@ -159,6 +165,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 神官戦士 | Hiệp sĩ Dòng tu | Nghề nghiệp / Chức vị | Chiến sĩ phục vụ trong đền thờ |
 | 〈ドワイエズ武具店〉 | 〈Tiệm Vũ Khí Doyez〉 | Cửa hàng | Cửa hàng rèn đúc vũ khí lâu đời tại Levantes của gia đình Neez |
 | 〔エルフの憩い亭〕 | Lữ quán Tinh linh | Quán trọ / Quán rượu | Lữ quán kiêm quán rượu do Eru làm chủ quán |
+| 〔西風の抱擁亭〕 | Lữ quán Cái Ôm Của Gió | Quán trọ / Quán rượu | Quán trọ kiêm quán rượu dành cho thợ săn ma thú mới vào nghề |
 | トガの街 | Thị trấn Toga | Địa danh | Thị trấn thuộc vùng đất trực thuộc ở phía bắc vương đô |
 | ラギネ村 | Làng Ragine | Địa danh | Ngôi làng gần thị trấn Toga, quê hương nơi Calcedonia sinh ra |
 | 直轄地 / 王領 | Vùng đất trực thuộc / Vương lãnh | Thuật ngữ / Địa chính | Vùng đất chịu sự cai quản trực tiếp của quốc vương |
