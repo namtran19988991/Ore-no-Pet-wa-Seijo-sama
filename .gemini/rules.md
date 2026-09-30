@@ -63,7 +63,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Tatsumi | Jolt | tôi | cậu | bạn bè |
 | Baride (Quốc vương), Argento, Freenea | Tatsumi | ta | cậu | hoàng tộc đối với Tatsumi |
 | Tatsumi | Baride (Quốc vương), Argento, Freenea | tôi | ngài | Tatsumi đối với hoàng tộc |
-| Jolt | Giuseppe | tôi | ông (ông Giuseppe / Giuseppe-jiichan) | thầy trò cũ, Jolt là học trò cũ của Giuseppe |
+| Jolt | Giuseppe | tôi | Giuseppe-jiisan/ ông | thầy trò cũ, Jolt là học trò cũ của Giuseppe |
 | Giuseppe | Jolt | ta / ông | cậu / nhóc Jolt (Jolt-bouzu) | thầy trò cũ, Giuseppe là đại tư tế và bạn thân của quốc vương Baride |
 | Ierimao | Jolt | ta | cậu (Jolt-kun) | Khi đóng giả làm thầy trò (trong chuyến đi thanh tra) |
 | Jolt | Ierimao | em | thầy (thầy Ierimao / Ierimao-sensei) | Khi đóng giả làm thầy trò (trong chuyến đi thanh tra) |
