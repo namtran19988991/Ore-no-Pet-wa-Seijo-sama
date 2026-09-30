@@ -25,7 +25,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 - **Văn phong đầy đủ, rõ ý và mềm mại**: Câu văn phải diễn đạt trọn vẹn ý nghĩa, không được quá tối giản hay cộc lốc. Ưu tiên sự mượt mà, tự nhiên trong diễn đạt, thể hiện được cảm xúc của nhân vật (cả nội tâm và lời thoại)  đồng thời phải đảm bảo phù hợp với nội dung nguyên tác để thể hiện đúng nội dung nguyên tác muốn truyền tải.
 - ** Bắt buộc không** sử dụng dấu gạch ngang (“—”) trong kết quả đầu ra mà sử dụng các từ ngữ, cách diễn đạt hoặc dấu câu tự nhiên trong tiếng Việt.
 - Sử dụng **dấu câu** đúng chuẩn tiếng Việt.
-- **Sử dụng ký tự dấu ngã (`~`)**: Ký tự `~` chỉ được sử dụng khi phù hợp nếu văn bản gốc có ý thể hiện sự bông đùa, vui vẻ, trêu chọc trong câu nói hoặc có thể nhận biết ngữ cảnh thích hợp để sử dụng ký tự này. Trong các đoạn hội thoại mang tính nghiêm túc, khẩn trương hoặc khi văn bản gốc không hề thể hiện điều đó thì tuyệt đối không sử dụng ký tự `~`.
+- **Sử dụng ký tự dấu ngã (`~`)**: Ký tự `~` sử dụng khi phù hợp nếu văn bản gốc có ý thể hiện sự bông đùa, vui vẻ, trêu chọc. Trong các đoạn hội thoại mang tính nghiêm túc, khẩn trương hoặc khi văn bản gốc không hề thể hiện điều đó thì không sử dụng ký tự `~`.
 - **Dấu ngoặc hội thoại**: Các đoạn hội thoại trực tiếp của nhân vật bắt buộc phải để trong **dấu ngoặc kép `""`** (ví dụ: `"Xin chào!"`), tuyệt đối không sử dụng dấu ngoặc vuông/ngoặc kép kiểu Nhật (`「」`). Bắt buộc **giữ nguyên dấu ngoặc `『』`** trong văn bản gốc khi nhân vật sử dụng dấu ngoặc này để thể hiện việc nhân vật dùng phương thức khác để nói chuyện/truyền âm/giao tiếp đặc biệt thay vì trực tiếp phát âm.
 - Duy trì **nhất quán** về văn phong, cách xưng hô xuyên suốt bản dịch.
 - Các từ ngữ biểu cảm, thán từ nên được **Việt hóa tự nhiên** (ví dụ: "くそ" → "Chết tiệt", không phải "Kuso").
@@ -193,6 +193,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 《魚人化》 | 《Nhân Ngư Hóa》 | Ma pháp | Ma pháp biến thân thành bán nhân ngư của Miloulle |
 | 《獣化》 | 《Thú Hóa》 | Ma pháp | Ma pháp biến thân thành dã thú |
 | 〈魚〉 | 〈Ngư〉 | Thuộc tính | Hệ thuộc tính phân nhánh cấp thấp của hệ Thủy |
+| 大氷山山脈 | Dãy núi Đại Băng Sơn | Địa danh | Dãy núi băng tuyết nơi băng tinh linh cư ngụ |
 
 ### Hệ thống cấp bậc trong Đền thờ (Giáo hội):
 Thứ tự từ cao xuống thấp:
