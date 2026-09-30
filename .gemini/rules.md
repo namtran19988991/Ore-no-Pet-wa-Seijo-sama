@@ -83,6 +83,10 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Tatsumi | Giuseppe | con | ông (ông Giuseppe / Giuseppe-san) | Quan hệ ông cháu, sư phụ và đệ tử |
 | Giuseppe | Calcedonia | ta | con / Calsey | Quan hệ ông cháu |
 | Calcedonia | Giuseppe | con | ông (ông Giuseppe / Giuseppe-sama) | Quan hệ ông cháu |
+| Taülorde | Tatsumi | ta | cậu / em rể (Tatsumi) | Anh rể / anh kết nghĩa với em rể |
+| Tatsumi | Taülorde | em | anh (Taülorde-nii-san / Nii-san / Aniki) | Em rể với anh vợ / anh kết nghĩa |
+| Taülorde | Calcedonia | ta | em (Calsey) | Anh em kết nghĩa |
+| Calcedonia | Taülorde | em | anh (Taülorde-nii-sama) | Anh em kết nghĩa |
 
 
 ## 4. Quy Tắc Tên Nhân Vật
@@ -131,7 +135,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | ピーチョくん | Piicho-kun | Tinh linh ký khế ước với Eru |
 | ツワールくん | Twirl-kun | Tinh linh ký khế ước với Eru |
 | るーらん / るーらんくん | Ruuran / Ruuran-kun | Quang tinh linh ký khế ước với Eru |
-| エリーシア (エリーシア・クワロート) | Elysia (Elysia Quarlot) | Phu nhân tiền nhiệm (Đại phu nhân) của gia tộc Công tước Quarlot |
+| エリーシア (エリーシア・クワロート) | Elysia (Elysia Coulette) | Phu nhân tiền nhiệm (Đại phu nhân) của gia tộc Công tước Coulette |
+| ガイル・ユトリロス | Gyle Yutrillos | Kị sĩ vương quốc, con thứ ba của một gia đình quý tộc |
 
 
 ---
