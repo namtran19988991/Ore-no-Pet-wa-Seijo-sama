@@ -87,6 +87,10 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Tatsumi | Taülorde | em | anh (Taülorde-nii-san / Nii-san / Aniki) | Em rể với anh vợ / anh kết nghĩa |
 | Taülorde | Calcedonia | ta | em (Calsey) | Anh em kết nghĩa |
 | Calcedonia | Taülorde | em | anh (Taülorde-nii-sama) | Anh em kết nghĩa |
+| Giuseppe | Tina (Teiyeto Zamui) | ta | ngài (Đại Ma Thuật Sư-dono) | Giuseppe sùng bái Tina từ trẻ |
+| Tina (Teiyeto Zamui) | Giuseppe | tôi | ông (Giám mục tối cao-dono / Giám mục tối cao đền Savaiv-dono) | Tina tính cách phóng khoáng |
+| Tatsumi | Tina (Teiyeto Zamui) | tôi | Tina-san / cô | Hậu bối hệ Thiên và tiền bối huyền thoại |
+| Tina (Teiyeto Zamui) | Tatsumi | tôi | cậu / Tatsumi-kun / người kế nghiệp-kun | Tiền bối với hậu bối |
 
 
 ## 4. Quy Tắc Tên Nhân Vật
