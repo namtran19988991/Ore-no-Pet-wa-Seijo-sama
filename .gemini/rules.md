@@ -164,7 +164,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | ラルゴフィーリ王国 | Vương quốc Largofiely | Địa danh | Đất nước nơi câu chuyện diễn ra |
 | サヴァイヴ神殿 | Đền Savaiv | Tôn giáo | Đền thờ thần Savaiv |
 | ゴライバ神殿 | Đền Golaiva | Tôn giáo | Đền thờ thần Golaiva |
-| パーロゥ | Paro | Sinh vật | Loài chim cưỡi cỡ lớn |
+| パーロゥ | Parrow | Sinh vật | Loài chim cưỡi cỡ lớn |
 | オーク | Orc | Sinh vật | Quái lợn rừng dùng kéo xe |
 | 魔獣狩り | Thợ săn ma thú | Nghề nghiệp | Người săn bắt ma thú |
 | 魔祓い師 | Pháp sư trừ tà | Nghề nghiệp | Người thanh tẩy ma quỷ |
