@@ -141,6 +141,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | るーらん / るーらんくん | Ruuran / Ruuran-kun | Quang tinh linh ký khế ước với Eru |
 | エリーシア (エリーシア・クワロート) | Elysia (Elysia Coulette) | Phu nhân tiền nhiệm (Đại phu nhân) của gia tộc Công tước Coulette |
 | ガイル・ユトリロス | Gyle Yutrillos | Kị sĩ vương quốc, con thứ ba của một gia đình quý tộc |
+| ミーラ | Meera | Nữ thợ săn ma thú sử dụng rìu hai tay |
+| シェーラ | Sheera | Cô gái Elf quen biết với Meera và Morganeich |
 
 
 ---
@@ -197,6 +199,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 海洋神ダラガーベ / ダラガーベ | Thần Biển Cả Dragabe / Dragabe | Tôn giáo / Thần linh | Vị thần giám sát đại dương, bảo hộ thương nghiệp buôn bán |
 | 太陽神ゴライバ | Thần Mặt Trời Golaiva | Tôn giáo / Thần linh | Vị thần bảo hộ luật pháp, chiến thần |
 | 刀竜 | Đao long | Quái vật | Loài rồng có hình dáng như bọ kẹp kìm, yếu hơn phi long |
+| 鎧竜 | Thiết Long | Quái vật | Loài rồng có lớp giáp xác cứng cáp bao phủ toàn thân |
 | 《天崩》 | 《Thiên Băng》 | Danh xưng | Biệt danh của Tatsumil (viết tắt của Kẻ Làm Sập Trần Nhà) |
 | 豪落鉄鎖鞭 | Hào Lạc Thiết Liên Tiên | Võ thuật / Chiêu thức | Môn võ dùng xích sắt do Tatsumil sáng lập |
 | ラライナ | Lalaina / đàn Lalaina | Nhạc cụ | Nhạc cụ dạng đàn dây của người hát rong |
