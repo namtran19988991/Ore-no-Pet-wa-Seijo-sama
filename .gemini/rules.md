@@ -25,6 +25,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 - **Văn phong đầy đủ, rõ ý và mềm mại**: Câu văn phải diễn đạt trọn vẹn ý nghĩa, không được quá tối giản hay cộc lốc. Ưu tiên sự mượt mà, tự nhiên trong diễn đạt, thể hiện được cảm xúc của nhân vật (cả nội tâm và lời thoại)  đồng thời phải đảm bảo phù hợp với nội dung nguyên tác để thể hiện đúng nội dung nguyên tác muốn truyền tải.
 - ** Bắt buộc không** sử dụng dấu gạch ngang (“—”) trong kết quả đầu ra mà sử dụng các từ ngữ, cách diễn đạt hoặc dấu câu tự nhiên trong tiếng Việt.
 - Sử dụng **dấu câu** đúng chuẩn tiếng Việt.
+- **Sử dụng ký tự dấu ngã (`~`)**: Ký tự `~` sử dụng khi phù hợp nếu văn bản gốc có ý thể hiện sự bông đùa, vui vẻ, trêu chọc. Trong các đoạn hội thoại mang tính nghiêm túc, khẩn trương hoặc khi văn bản gốc không hề thể hiện điều đó thì không sử dụng ký tự `~`.
 - **Dấu ngoặc hội thoại**: Các đoạn hội thoại trực tiếp của nhân vật bắt buộc phải để trong **dấu ngoặc kép `""`** (ví dụ: `"Xin chào!"`), tuyệt đối không sử dụng dấu ngoặc vuông/ngoặc kép kiểu Nhật (`「」`). Bắt buộc **giữ nguyên dấu ngoặc `『』`** trong văn bản gốc khi nhân vật sử dụng dấu ngoặc này để thể hiện việc nhân vật dùng phương thức khác để nói chuyện/truyền âm/giao tiếp đặc biệt thay vì trực tiếp phát âm.
 - Duy trì **nhất quán** về văn phong, cách xưng hô xuyên suốt bản dịch.
 - Các từ ngữ biểu cảm, thán từ nên được **Việt hóa tự nhiên** (ví dụ: "くそ" → "Chết tiệt", không phải "Kuso").
@@ -56,12 +57,13 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Baride (Quốc vương) | Giuseppe | ta | ông | bạn hữu lâu năm / vua và đại tư tế |
 | Giuseppe | Baride (Quốc vương) | tôi | ngài | đại tư tế và quốc vương |
 | Miloulle | Jadokh | tôi | anh | quan hệ đồng đội |
+| Miloulle | Tatsumi | tôi | cậu | quan hệ đồng đội |
 | Jadokh | Miloulle / Tatsumi | tôi / mị (khi nói chuyện thân mật, trêu đùa theo phong cách Okama) | cô / cậu / cưng / [Tên]-chan | Đồng đội. Jadokh là nam cơ bắp nhưng tính cách Okama tự luyến, xưng "mị", dùng thán từ điệu đà "Ara" cho 「あらン」, ngữ điệu kết câu luyến láy điệu đà nếu có trong văn bản gốc (nha, nè, đó nha) |
 | Jolt | Tatsumi | tôi | anh | bạn bè |
 | Tatsumi | Jolt | tôi | cậu | bạn bè |
 | Baride (Quốc vương), Argento, Freenea | Tatsumi | ta | cậu | hoàng tộc đối với Tatsumi |
 | Tatsumi | Baride (Quốc vương), Argento, Freenea | tôi | ngài | Tatsumi đối với hoàng tộc |
-| Jolt | Giuseppe | tôi | ông (ông Giuseppe / Giuseppe-jiichan) | thầy trò cũ, Jolt là học trò cũ của Giuseppe |
+| Jolt | Giuseppe | tôi | Giuseppe-jiisan/ ông | thầy trò cũ, Jolt là học trò cũ của Giuseppe |
 | Giuseppe | Jolt | ta / ông | cậu / nhóc Jolt (Jolt-bouzu) | thầy trò cũ, Giuseppe là đại tư tế và bạn thân của quốc vương Baride |
 | Ierimao | Jolt | ta | cậu (Jolt-kun) | Khi đóng giả làm thầy trò (trong chuyến đi thanh tra) |
 | Jolt | Ierimao | em | thầy (thầy Ierimao / Ierimao-sensei) | Khi đóng giả làm thầy trò (trong chuyến đi thanh tra) |
@@ -75,6 +77,20 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Begil | Calcedonia | tôi | cô (Thánh Nữ-dono / Calcedonia-dono) | Tư tế già ở làng Ragine đối với Calcedonia |
 | Eru | Tatsumi | tôi | cậu (Tatsumi-san) | Quan hệ bạn bè, làm ăn ngang hàng |
 | Tatsumi | Eru | tôi | cô (Eru-san) | Quan hệ bạn bè, làm ăn ngang hàng |
+| Calcedonia | Jadokh | tôi | anh (Jadokh-san) | Quan hệ ngang hàng |
+| Jadokh | Calcedonia | tôi / mị | cô / cưng / Calsey-chan | Quan hệ ngang hàng |
+| Giuseppe | Tatsumi | ta | con / cháu rể | Quan hệ ông cháu, sư phụ và đệ tử |
+| Tatsumi | Giuseppe | con | ông (ông Giuseppe / Giuseppe-san) | Quan hệ ông cháu, sư phụ và đệ tử |
+| Giuseppe | Calcedonia | ta | con / Calsey | Quan hệ ông cháu |
+| Calcedonia | Giuseppe | con | ông (ông Giuseppe / Giuseppe-sama) | Quan hệ ông cháu |
+| Taülorde | Tatsumi | ta | cậu / em rể (Tatsumi) | Anh rể / anh kết nghĩa với em rể |
+| Tatsumi | Taülorde | em | anh (Taülorde-nii-san / Nii-san / Aniki) | Em rể với anh vợ / anh kết nghĩa |
+| Taülorde | Calcedonia | ta | em (Calsey) | Anh em kết nghĩa |
+| Calcedonia | Taülorde | em | anh (Taülorde-nii-sama) | Anh em kết nghĩa |
+| Giuseppe | Tina (Teiyeto Zamui) | ta | ngài (Đại Ma Thuật Sư-dono) | Giuseppe sùng bái Tina từ trẻ |
+| Tina (Teiyeto Zamui) | Giuseppe | tôi | ông (Giám mục tối cao-dono / Giám mục tối cao đền Savaiv-dono) | Tina tính cách phóng khoáng |
+| Tatsumi | Tina (Teiyeto Zamui) | tôi | Tina-san / cô | Hậu bối hệ Thiên và tiền bối huyền thoại |
+| Tina (Teiyeto Zamui) | Tatsumi | tôi | cậu / Tatsumi-kun / người kế nghiệp-kun | Tiền bối với hậu bối |
 
 
 ## 4. Quy Tắc Tên Nhân Vật
@@ -92,7 +108,9 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 辰巳 (山形辰巳) | Tatsumi (Yamagata Tatsumi) | Nhân vật chính |
 | カルセドニア | Calcedonia | Nữ chính, vợ của Tatsumi (tên đầy đủ: Calcedonia; tên viết tắt: Calsey; biệt danh: Chiiko) |
 | ジャドック | Jadokh | Đồng đội |
-| ブガランク | Bugarank | Giám mục tối cao đền Golaiva |
+| ブガランク (ブガランク・イシュカン) | Bugarank (Bugarank Ishukan) | Giám mục tối cao đền Golaiva |
+| グルグナード・アーマート | Gurgnard Armat | Giám mục tối cao Giáo đoàn Thần Biển Cả Dragabe |
+| マイアリナ・キスカルト | Mayalina Kisscalt | Giám mục tối cao đền Thần Trăng Khuya Gravabi |
 | ティエート・ザムイ | Teiyeto Zamui | Tiền nhiệm ma pháp sư hệ 〈Thiên〉, chủ nhân trước của Amaryllis, danh xưng 《Đại Ma Thuật Sư》 |
 | ジュゼッペ | Giuseppe | Giám mục tối cao đền Savaiv, sư phụ của Tatsumi (tên đầy đủ: Giuseppe Chrysophrase) |
 | バーライド | Baride | Quốc vương Vương quốc Largofiely (tên đầy đủ: Baride Rezo Largofiely) |
@@ -114,6 +132,17 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | イエリマオ・トゥーラル | Ierimao Toural | Quan thanh tra của triều đình, người thừa kế gia tộc Hầu tước Toural, bạn thời thơ ấu của Vương thái tử Argento |
 | タランド | Tarand | Người hát rong, từng tán tỉnh Calcedonia và Eru rồi bị Tatsumi lột sạch quần áo ném ra ngoài quán |
 | ターツミル | Tatsumil | Thợ săn ma thú cơ bắp, người sử dụng Hào Lạc Thiết Liên Tiên, biệt danh 《Thiên Băng》 (viết tắt của 《Kẻ Làm Sập Trần Nhà》) |
+| タッド | Tadd | Bạn cùng làng, đồng đội thợ săn ma thú trong nhóm của Miloulle |
+| ガンス | Granz | Bạn cùng làng, đồng đội thợ săn ma thú trong nhóm của Miloulle |
+| クォーラン | Kuoran | Bạn cùng làng, đồng đội thợ săn ma thú trong nhóm của Miloulle |
+| タドンくん | Tadon-kun | Thổ tinh linh ký khế ước với Eru |
+| ピーチョくん | Piicho-kun | Tinh linh ký khế ước với Eru |
+| ツワールくん | Twirl-kun | Tinh linh ký khế ước với Eru |
+| るーらん / るーらんくん | Ruuran / Ruuran-kun | Quang tinh linh ký khế ước với Eru |
+| エリーシア (エリーシア・クワロート) | Elysia (Elysia Coulette) | Phu nhân tiền nhiệm (Đại phu nhân) của gia tộc Công tước Coulette |
+| ガイル・ユトリロス | Gyle Yutrillos | Kị sĩ vương quốc, con thứ ba của một gia đình quý tộc |
+| ミーラ | Meera | Nữ thợ săn ma thú sử dụng rìu hai tay |
+| シェーラ | Sheera | Cô gái Elf quen biết với Meera và Morganeich |
 
 
 ---
@@ -141,7 +170,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | ラルゴフィーリ王国 | Vương quốc Largofiely | Địa danh | Đất nước nơi câu chuyện diễn ra |
 | サヴァイヴ神殿 | Đền Savaiv | Tôn giáo | Đền thờ thần Savaiv |
 | ゴライバ神殿 | Đền Golaiva | Tôn giáo | Đền thờ thần Golaiva |
-| パーロゥ | Paro | Sinh vật | Loài chim cưỡi cỡ lớn |
+| パーロゥ | Parrow | Sinh vật | Loài chim cưỡi cỡ lớn |
 | オーク | Orc | Sinh vật | Quái lợn rừng dùng kéo xe |
 | 魔獣狩り | Thợ săn ma thú | Nghề nghiệp | Người săn bắt ma thú |
 | 魔祓い師 | Pháp sư trừ tà | Nghề nghiệp | Người thanh tẩy ma quỷ |
@@ -159,6 +188,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 神官戦士 | Hiệp sĩ Dòng tu | Nghề nghiệp / Chức vị | Chiến sĩ phục vụ trong đền thờ |
 | 〈ドワイエズ武具店〉 | 〈Tiệm Vũ Khí Doyez〉 | Cửa hàng | Cửa hàng rèn đúc vũ khí lâu đời tại Levantes của gia đình Neez |
 | 〔エルフの憩い亭〕 | Lữ quán Tinh linh | Quán trọ / Quán rượu | Lữ quán kiêm quán rượu do Eru làm chủ quán |
+| 〔西風の抱擁亭〕 | Lữ quán Cái Ôm Của Gió | Quán trọ / Quán rượu | Quán trọ kiêm quán rượu dành cho thợ săn ma thú mới vào nghề |
 | トガの街 | Thị trấn Toga | Địa danh | Thị trấn thuộc vùng đất trực thuộc ở phía bắc vương đô |
 | ラギネ村 | Làng Ragine | Địa danh | Ngôi làng gần thị trấn Toga, quê hương nơi Calcedonia sinh ra |
 | 直轄地 / 王領 | Vùng đất trực thuộc / Vương lãnh | Thuật ngữ / Địa chính | Vùng đất chịu sự cai quản trực tiếp của quốc vương |
@@ -166,11 +196,25 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 代官府 | Phủ quan cai quản | Cơ quan / Địa danh | Trụ sở làm việc của quan cai quản tại vùng đất trực thuộc |
 | 査察官 | Quan thanh tra | Chức vụ | Quan chức triều đình được cử đi thanh tra, điều tra đột xuất |
 | 宵月神グラヴァビ | Thần Trăng Khuya Gravabi | Tôn giáo / Thần linh | Vị thần bóng đêm/trăng muộn được người hát rong tôn kính |
+| 海洋神ダラガーベ / ダラガーベ | Thần Biển Cả Dragabe / Dragabe | Tôn giáo / Thần linh | Vị thần giám sát đại dương, bảo hộ thương nghiệp buôn bán |
+| 太陽神ゴライバ | Thần Mặt Trời Golaiva | Tôn giáo / Thần linh | Vị thần bảo hộ luật pháp, chiến thần |
 | 刀竜 | Đao long | Quái vật | Loài rồng có hình dáng như bọ kẹp kìm, yếu hơn phi long |
+| 鎧竜 | Thiết Long | Quái vật | Loài rồng có lớp giáp xác cứng cáp bao phủ toàn thân |
 | 《天崩》 | 《Thiên Băng》 | Danh xưng | Biệt danh của Tatsumil (viết tắt của Kẻ Làm Sập Trần Nhà) |
 | 豪落鉄鎖鞭 | Hào Lạc Thiết Liên Tiên | Võ thuật / Chiêu thức | Môn võ dùng xích sắt do Tatsumil sáng lập |
 | ラライナ | Lalaina / đàn Lalaina | Nhạc cụ | Nhạc cụ dạng đàn dây của người hát rong |
 | シェイド | Vong linh tộc | Chủng tộc | Chủng tộc có 4 mắt, là chủng tộc của Jadokh |
+| 大雪蜥蜴 | thằn lằn tuyết khổng lồ | Quái vật | Thằn lằn tuyết kích thước lớn bị ma khí kí sinh |
+| 雪蜥蜴 | thằn lằn tuyết | Quái vật | Thằn lằn tuyết thông thường |
+| 土精霊 | thổ tinh linh | Tinh linh | Tinh linh hệ Thổ |
+| 光精霊 | quang tinh linh | Tinh linh | Tinh linh hệ Quang |
+| 《雷雨》 | 《Lôi Vũ》 | Ma pháp | Ma pháp tạo mưa sấm sét của Calcedonia |
+| 魔封具 / 魔具 | ma cụ | Trang bị / Đạo cụ | Trang bị, vật phẩm chứa năng lực ma pháp (như áo choàng, pháp trượng của Calcedonia) |
+| 《体力賦活》 | 《Hồi Phục Thể Lực》 | Ma pháp | Ma pháp hồi phục thể lực tạm thời của Calcedonia |
+| 《魚人化》 | 《Nhân Ngư Hóa》 | Ma pháp | Ma pháp biến thân thành bán nhân ngư của Miloulle |
+| 《獣化》 | 《Thú Hóa》 | Ma pháp | Ma pháp biến thân thành dã thú |
+| 〈魚〉 | 〈Ngư〉 | Thuộc tính | Hệ thuộc tính phân nhánh cấp thấp của hệ Thủy |
+| 大氷山山脈 | Dãy núi Đại Băng Sơn | Địa danh | Dãy núi băng tuyết nơi băng tinh linh cư ngụ |
 
 ### Hệ thống cấp bậc trong Đền thờ (Giáo hội):
 Thứ tự từ cao xuống thấp:
