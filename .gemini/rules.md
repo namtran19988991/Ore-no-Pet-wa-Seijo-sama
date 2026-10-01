@@ -63,7 +63,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Tatsumi | Jolt | tôi | cậu | bạn bè |
 | Baride (Quốc vương), Argento, Freenea | Tatsumi | ta | cậu | hoàng tộc đối với Tatsumi |
 | Tatsumi | Baride (Quốc vương), Argento, Freenea | tôi | ngài | Tatsumi đối với hoàng tộc |
-| Jolt | Giuseppe | tôi | ông (ông Giuseppe / Giuseppe-jiichan) | thầy trò cũ, Jolt là học trò cũ của Giuseppe |
+| Jolt | Giuseppe | tôi | Giuseppe-jiisan/ ông | thầy trò cũ, Jolt là học trò cũ của Giuseppe |
 | Giuseppe | Jolt | ta / ông | cậu / nhóc Jolt (Jolt-bouzu) | thầy trò cũ, Giuseppe là đại tư tế và bạn thân của quốc vương Baride |
 | Ierimao | Jolt | ta | cậu (Jolt-kun) | Khi đóng giả làm thầy trò (trong chuyến đi thanh tra) |
 | Jolt | Ierimao | em | thầy (thầy Ierimao / Ierimao-sensei) | Khi đóng giả làm thầy trò (trong chuyến đi thanh tra) |
@@ -79,6 +79,14 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Tatsumi | Eru | tôi | cô (Eru-san) | Quan hệ bạn bè, làm ăn ngang hàng |
 | Calcedonia | Jadokh | tôi | anh (Jadokh-san) | Quan hệ ngang hàng |
 | Jadokh | Calcedonia | tôi / mị | cô / cưng / Calsey-chan | Quan hệ ngang hàng |
+| Giuseppe | Tatsumi | ta | con / cháu rể | Quan hệ ông cháu, sư phụ và đệ tử |
+| Tatsumi | Giuseppe | con | ông (ông Giuseppe / Giuseppe-san) | Quan hệ ông cháu, sư phụ và đệ tử |
+| Giuseppe | Calcedonia | ta | con / Calsey | Quan hệ ông cháu |
+| Calcedonia | Giuseppe | con | ông (ông Giuseppe / Giuseppe-sama) | Quan hệ ông cháu |
+| Taülorde | Tatsumi | ta | cậu / em rể (Tatsumi) | Anh rể / anh kết nghĩa với em rể |
+| Tatsumi | Taülorde | em | anh (Taülorde-nii-san / Nii-san / Aniki) | Em rể với anh vợ / anh kết nghĩa |
+| Taülorde | Calcedonia | ta | em (Calsey) | Anh em kết nghĩa |
+| Calcedonia | Taülorde | em | anh (Taülorde-nii-sama) | Anh em kết nghĩa |
 
 
 ## 4. Quy Tắc Tên Nhân Vật
@@ -96,7 +104,9 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 辰巳 (山形辰巳) | Tatsumi (Yamagata Tatsumi) | Nhân vật chính |
 | カルセドニア | Calcedonia | Nữ chính, vợ của Tatsumi (tên đầy đủ: Calcedonia; tên viết tắt: Calsey; biệt danh: Chiiko) |
 | ジャドック | Jadokh | Đồng đội |
-| ブガランク | Bugarank | Giám mục tối cao đền Golaiva |
+| ブガランク (ブガランク・イシュカン) | Bugarank (Bugarank Ishukan) | Giám mục tối cao đền Golaiva |
+| グルグナード・アーマート | Gurgnard Armat | Giám mục tối cao Giáo đoàn Thần Biển Cả Dragabe |
+| マイアリナ・キスカルト | Mayalina Kisscalt | Giám mục tối cao đền Thần Trăng Khuya Gravabi |
 | ティエート・ザムイ | Teiyeto Zamui | Tiền nhiệm ma pháp sư hệ 〈Thiên〉, chủ nhân trước của Amaryllis, danh xưng 《Đại Ma Thuật Sư》 |
 | ジュゼッペ | Giuseppe | Giám mục tối cao đền Savaiv, sư phụ của Tatsumi (tên đầy đủ: Giuseppe Chrysophrase) |
 | バーライド | Baride | Quốc vương Vương quốc Largofiely (tên đầy đủ: Baride Rezo Largofiely) |
@@ -125,6 +135,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | ピーチョくん | Piicho-kun | Tinh linh ký khế ước với Eru |
 | ツワールくん | Twirl-kun | Tinh linh ký khế ước với Eru |
 | るーらん / るーらんくん | Ruuran / Ruuran-kun | Quang tinh linh ký khế ước với Eru |
+| エリーシア (エリーシア・クワロート) | Elysia (Elysia Coulette) | Phu nhân tiền nhiệm (Đại phu nhân) của gia tộc Công tước Coulette |
+| ガイル・ユトリロス | Gyle Yutrillos | Kị sĩ vương quốc, con thứ ba của một gia đình quý tộc |
 
 
 ---
