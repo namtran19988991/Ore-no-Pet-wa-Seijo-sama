@@ -58,7 +58,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Giuseppe | Baride (Quốc vương) | tôi | ngài | đại tư tế và quốc vương |
 | Miloulle | Jadokh | tôi | anh | quan hệ đồng đội |
 | Miloulle | Tatsumi | tôi | cậu | quan hệ đồng đội |
-| Jadokh | Miloulle / Tatsumi | tôi / mị (khi nói chuyện thân mật, trêu đùa theo phong cách Okama) | cô / cậu / cưng / [Tên]-chan | Đồng đội. Jadokh là nam cơ bắp nhưng tính cách Okama tự luyến, xưng "mị", dùng thán từ điệu đà "Ara" cho 「あらン」, ngữ điệu kết câu luyến láy điệu đà nếu có trong văn bản gốc (nha, nè, đó nha) |
+| Jadokh | Miloulle / Tatsumi | tôi / mị (khi nói chuyện thân mật, trêu đùa theo phong cách Okama) | cô / cậu / cưng / [Tên]-chan | Đồng đội. Jadokh là nam cơ bắp nhưng tính cách Okama tự luyến, xưng "mị", dùng thán từ điệu đà "Ara" cho 「あらン」, ngữ điệu kết câu luyến láy điệu đà nếu có trong văn bản gốc (nha, nè, đó, nhỉ,) |
 | Jolt | Tatsumi | tôi | anh | bạn bè |
 | Tatsumi | Jolt | tôi | cậu | bạn bè |
 | Baride (Quốc vương), Argento, Freenea | Tatsumi | ta | cậu | hoàng tộc đối với Tatsumi |
@@ -77,8 +77,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Begil | Calcedonia | tôi | cô (Thánh Nữ-dono / Calcedonia-dono) | Tư tế già ở làng Ragine đối với Calcedonia |
 | Eru | Tatsumi | tôi | cậu (Tatsumi-san) | Quan hệ bạn bè, làm ăn ngang hàng |
 | Tatsumi | Eru | tôi | cô (Eru-san) | Quan hệ bạn bè, làm ăn ngang hàng |
-| Calcedonia | Jadokh | tôi | anh (Jadokh-san) | Quan hệ ngang hàng |
-| Jadokh | Calcedonia | tôi / mị | cô / cưng / Calsey-chan | Quan hệ ngang hàng |
+| Calcedonia | Jadokh | tôi | anh (Jadokh-san) | Quan hệ đồng đội ngang hàng |
+| Jadokh | Calcedonia | tôi / mị | cô / cưng / Calsey-chan | Quan hệ đồng đội ngang hàng. Jadokh tính cách Okama tự luyến, xưng mị, gọi Calsey-chan/cưng |
 | Giuseppe | Tatsumi | ta | con / cháu rể | Quan hệ ông cháu, sư phụ và đệ tử |
 | Tatsumi | Giuseppe | con | ông (ông Giuseppe / Giuseppe-san) | Quan hệ ông cháu, sư phụ và đệ tử |
 | Giuseppe | Calcedonia | ta | con / Calsey | Quan hệ ông cháu |
@@ -91,6 +91,17 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Tina (Teiyeto Zamui) | Giuseppe | tôi | ông (Giám mục tối cao-dono / Giám mục tối cao đền Savaiv-dono) | Tina tính cách phóng khoáng |
 | Tatsumi | Tina (Teiyeto Zamui) | tôi | Tina-san / cô | Hậu bối hệ Thiên và tiền bối huyền thoại |
 | Tina (Teiyeto Zamui) | Tatsumi | tôi | cậu / Tatsumi-kun / người kế nghiệp-kun | Tiền bối với hậu bối |
+| Tatsumi | Morganeich (Morgan) | tôi | anh (Morgan-san / Morganeich-san) | Quan hệ đồng đội thợ săn ma thú |
+| Morganeich (Morgan) | Tatsumi | tôi | cậu (Tatsumi) | Quan hệ đồng đội thợ săn ma thú |
+| Calcedonia | Morganeich (Morgan) | em | anh / Morgan / Morganeich-sama | Đồng đội, người quen |
+| Morganeich (Morgan) | Calcedonia | anh | em / Calsey | Đồng đội, người quen |
+| Meera | Sheera | em | chị (Sheera-neesan / Nee-san) | Chị em thân thiết, người quen cùng quê |
+| Sheera | Meera | chị | em (Meera) | Chị em thân thiết |
+| Meera | Nhóm Tatsumi (Tatsumi, Calcedonia, Morganeich, Miloulle, Jadokh) | tôi | các vị / mọi người / [Tên]-san / [Tên]-sama / Thiên Tường-san | Meera xem mình là người làm thuê/hậu bối đi theo học hỏi |
+| Nhóm Tatsumi | Meera | tôi | cô / Meera-san / Meera-chan (Jadokh) | Tiền bối/đồng đội đối với hậu bối |
+| Sheera | Nhóm Tatsumi | tôi | các vị / Morganeich-sama / Calcedonia-sama | Nhờ cậy nhóm Tatsumi bảo vệ và giúp đỡ làng Elf |
+| Meera | Miloulle | tôi | cô (Miloulle) | Quan hệ đồng đội ngang hàng |
+| Miloulle | Meera | tôi | cô (Meera) | Quan hệ đồng đội ngang hàng |
 
 
 ## 4. Quy Tắc Tên Nhân Vật
