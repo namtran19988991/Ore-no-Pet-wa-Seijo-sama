@@ -226,6 +226,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 《獣化》 | 《Thú Hóa》 | Ma pháp | Ma pháp biến thân thành dã thú |
 | 〈魚〉 | 〈Ngư〉 | Thuộc tính | Hệ thuộc tính phân nhánh cấp thấp của hệ Thủy |
 | 大氷山山脈 | Dãy núi Đại Băng Sơn | Địa danh | Dãy núi băng tuyết nơi băng tinh linh cư ngụ |
+| ダイオウグソクムシ | bọ biển khổng lồ | Sinh vật | Loài giáp xác biển thuộc họ Cirolanidae (Bathynomus giganteus) |
+| ダンゴムシ | bọ cuốn chiếu | Sinh vật | Loài giáp xác cạn thuộc bộ Chân đều |
 
 ### Hệ thống cấp bậc trong Đền thờ (Giáo hội):
 Thứ tự từ cao xuống thấp:
